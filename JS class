@@ -1,0 +1,5 @@
+<script type="text/javascript">
+        let name = prompt("Enter your name");
+        alert(`Welcome ${name`); 
+    </script>
+    _____________________________________________________________
